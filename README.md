@@ -5,7 +5,7 @@
 - User customizability: users will be able to add their own sounds (potentially soundpacks).
 
 
-Dev TODO's: 
+### Dev TODO's: 
 - Fork "step counter" plugin to learn how player movement is detected.
 - Sync a single sound with player movement; instead of counting steps, you play sound.
 - Integrate with RuneLite for testing.
